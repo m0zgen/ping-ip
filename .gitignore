@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+
+# Python
+venv
+
+# Working files
+*prod.txt
